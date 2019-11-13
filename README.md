@@ -1,29 +1,15 @@
-# vue-vuex
+# Vuex
 
-## Project setup
+Projeto simples para entender o uso do gerenciador de estado Vuex
+
+## Instalação dependências
+
 ```
 yarn install
 ```
 
-### Compiles and hot-reloads for development
+### Compilação e auto-reload
+
 ```
 yarn run serve
 ```
-
-### Compiles and minifies for production
-```
-yarn run build
-```
-
-### Run your tests
-```
-yarn run test
-```
-
-### Lints and fixes files
-```
-yarn run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
